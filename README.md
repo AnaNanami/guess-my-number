@@ -1,1 +1,1 @@
-https://anananami.github.io/guess-my-number/
+https://AnaUfimtseva.github.io/guess-my-number/
